@@ -10,3 +10,5 @@ React
 DOM
 Ruby
 Git 2
+MySQl
+Upt
