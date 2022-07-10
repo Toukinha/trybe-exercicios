@@ -6,3 +6,7 @@ O que eu vou aprender na Trybe:
 - HTML
 - CSS
 - aula 1
+React
+DOM
+Ruby
+Git 2
