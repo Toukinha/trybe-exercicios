@@ -3,22 +3,6 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
-- lore y				
-- loren y
-- loreen y 
-888
-asdsaf
-
-safadds
-safdasd
-sla
-lsa
-[pwqe
-;lsdak
-kfldsa
-sadlfka
-;klsda
-20:05
-20:13
-vitin corno 3.0 
-vitin o bom de guerra (6 par de chifre)
+- HTML
+- CSS
+- aula 1
