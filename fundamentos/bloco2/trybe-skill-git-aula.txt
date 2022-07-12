@@ -3,12 +3,7 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
+- GitHub
 - HTML
 - CSS
-- aula 1
-React
-DOM
-Ruby
-Git 2
-MySQl
-Upt
+- DOM
