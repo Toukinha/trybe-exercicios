@@ -1,0 +1,28 @@
+body{
+    font-size:16px;
+    }
+h1{
+    color: orange;
+    font-size:3em;
+    font-family:sans-serif;
+
+}
+#brown{
+    color: rgb(94, 59, 27);
+}
+#yellow{
+    color: yellow;
+}
+#red{
+    color: red;
+}
+.p-ul{
+    background-color: rgb(194, 0, 253);
+}
+p{
+    font-weight: 600;
+}
+#backGroundList{
+    background-color: rgb(179, 147, 189);
+}
+
