@@ -16,7 +16,8 @@
   
   .speach {
     font-size: 25px;
-    left: 32%;
+    left: 410px;
+    top: 250px;
     position: absolute;
     z-index: 1;
   }
@@ -35,7 +36,7 @@
   }
   .bowsers{
     position: absolute;
-    left: 75%;
-    bottom: 50%;
+    left: 700px;
+    bottom: 130px;
     
   }
