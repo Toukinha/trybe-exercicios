@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header h1{
+    text-align: center;
+    
+}
+.menu{
+    margin-bottom: 50px;
+}
+
+.menu-h {
+    background-color: yellowgreen;
+    padding: 20px;
+    list-style: none;
+    display: flex;
+    gap: 70px;
+    font-size: 30px;
+    
+}
+
+ul.menu-h li{
+    margin-left: 20px;
+}
