@@ -1,0 +1,10 @@
+
+tasksList.push('Fazer exercícios da Trybe');  // adiciona mais uma tarefa
+
+tasksList.pop();  // remove a última tarefa
+
+{
+let tasksList = ['Tomar café', 'Reunião', 'Brincar com o cachorro'];
+let indexOfTask = tasksList.indexOf('Reunião') // indexOf() procura indice de um item no Array
+console.log(indexOfTask);
+}
