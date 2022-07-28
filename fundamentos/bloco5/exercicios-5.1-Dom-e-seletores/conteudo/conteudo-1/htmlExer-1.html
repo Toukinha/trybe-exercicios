@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <h2 id="page-title">Título</h2>
+      <p class="para" id="paragraph">Dê uma cor para este parágrafo!</p>
+      <h4 id="subtitle">Subtítulo</h4>
+      <p class="para" id="second-paragraph">Segundo parágrafo!</p>
+    </header>
+    <script>
+      let teste2 =  document.querySelector('#page-title').innerHTML = 'Touka Titulo'
+      const paragraph = document.getElementById("paragraph").innerHTML = 'Toukinha brabo de mais '
+      const teste = document.getElementById('paragraph').style.color = "purple";
+      document.querySelector('#subtitle').innerHTML = 'Touka Sub'
+      document.querySelector('#second-paragraph').innerHTML = 'TOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOukaTOuka'
+      document.getElementsByClassName('para')[0].innerHTML  = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+      document.getElementsByClassName('para')[0].style.color = 'blue'
+    </script>
+  </body>
+</html>
