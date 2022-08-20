@@ -8,13 +8,7 @@ const newEmployees = () => {
 };
 
 const email = (name) => {
-  const splitJoin = () => {  
-    name = name.split(' ')
-      .join('')
-        .toLowerCase();
-    
-    return name
-};
+  const splitJoin = () => name = name.split(' ').join('').toLowerCase();
   const emailg = {
      nome: name,
      email: `${splitJoin()}@trybe.com.`
