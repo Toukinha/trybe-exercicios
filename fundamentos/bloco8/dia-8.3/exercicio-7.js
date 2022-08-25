@@ -60,9 +60,10 @@ const books = [
       releaseYear: 1928,
     },
   ];
+  console.log(books[1].author.name.startsWith('o'));
+  const teste = ( ) => books.find((array) => 
+    array.author.name.split('')
+      .filter((split) => split.includes('.')).length === 3)
 
-  const fantasyOrScienceFictionAuthors = books.filter(
-    arg => arg.genre === 'Fantasia' || arg.genre === 'Ficção Científica')
-    .map(arg => arg.author.name)
-        .sort();
-console.log(fantasyOrScienceFictionAuthors);
+  console.log(teste());
+  

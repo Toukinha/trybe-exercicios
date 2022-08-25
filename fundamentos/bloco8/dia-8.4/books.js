@@ -60,9 +60,5 @@ const books = [
       releaseYear: 1928,
     },
   ];
-
-  const fantasyOrScienceFictionAuthors = books.filter(
-    arg => arg.genre === 'Fantasia' || arg.genre === 'Ficção Científica')
-    .map(arg => arg.author.name)
-        .sort();
-console.log(fantasyOrScienceFictionAuthors);
+  
+  module.exports = books;
